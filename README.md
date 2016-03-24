@@ -1,5 +1,5 @@
 # To work with Martin* - the Manual
-Well. For starters. Martin is a smart guy. He scares you a bit. That makes you feel needed to keep some principal advantages of him. This turned out to NOT be a sush a good idea. Here is my plan for success to work with Martin from frontend to backend. 
+Well. For starters. Martin is a smart guy. He scares you a bit. That makes you feel needed to keep some principal advantages of him. This turned out to NOT be such a good idea. Here is my solution for success to work with Martin from frontend to backend. 
 
 1. Develop working prototypes.
 2. If using hitgub. Be sure not to put these in the gitignore-file. 
